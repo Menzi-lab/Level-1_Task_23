@@ -1,0 +1,6 @@
+
+# Task 23 OOP Synthesis
+
+Suzuki, Swift, 24566, 228
+Volkswagen, Citi, 177013, 200
+
